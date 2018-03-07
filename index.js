@@ -17,4 +17,10 @@ while (i < johnLennonFactsArray.length) {
   return factsArray;
 }
 
-function iLoveTheBeatles(number)
+function iLoveTheBeatles(number) {
+  array = []
+  
+  do {
+    
+  }
+}
