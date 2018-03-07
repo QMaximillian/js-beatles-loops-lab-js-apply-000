@@ -25,4 +25,5 @@ function iLoveTheBeatles(number) {
     i++;
   }
    while(i < number);
+   return iLoveTheBeatlesArray;
 }
