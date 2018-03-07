@@ -20,7 +20,8 @@ while (i < johnLennonFactsArray.length) {
 function iLoveTheBeatles(number) {
   var iLoveTheBeatlesArray = [];
   var i = 0;
-  do {iLoveTheBeatlesArray.push("I love the Beatles!");
+  do {
+    iLoveTheBeatlesArray.push("I love the Beatles!");
     i++;
   }
    while(i < 16);
