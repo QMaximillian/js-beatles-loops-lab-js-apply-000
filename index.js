@@ -18,9 +18,11 @@ while (i < johnLennonFactsArray.length) {
 }
 
 function iLoveTheBeatles(number) {
-  array = []
+ var array = [];
   
   do {
+    array.push("I love the Beatles!")
+    number++
     
   }
 }
