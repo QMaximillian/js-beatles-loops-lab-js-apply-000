@@ -17,13 +17,4 @@ while (i < johnLennonFactsArray.length) {
   return factsArray;
 }
 
-function iLoveTheBeatles(number) {
-  var iLoveTheBeatlesArray = [];
-  var i = 0;
-  do {
-    iLoveTheBeatlesArray[i].push("I love the Beatles!");
-    i++;
-  }
-   while(i < number);
-   return iLoveTheBeatlesArray;
-}
+function iLoveTheBeatles(number)
